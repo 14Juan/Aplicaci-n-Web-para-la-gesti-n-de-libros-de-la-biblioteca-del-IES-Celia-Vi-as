@@ -19,7 +19,7 @@ Este proyecto lleva bastante tiempo pensándose, para evitar la pérdida de libr
 
 ##  Tabla de Contenidos
 - [Descripción General](#-descripción-general)
-- [Características Principales](#-características-principales)
+- [Características Principales](#-Características-Principales)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Instalación y Despliegue](#-instalación-y-despliegue)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
