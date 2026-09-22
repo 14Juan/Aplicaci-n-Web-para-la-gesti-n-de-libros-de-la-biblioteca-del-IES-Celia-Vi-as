@@ -7,6 +7,7 @@
 
 Aplicación web interactiva para la gestión de catálogos y préstamos de libros, desarrollada dentro del módulo de **Lenguajes de Marcas** (1º DAW).
 
+### Descripción del proyecto
 Este proyecto lleva bastante tiempo pensándose, para evitar la pérdida de libros en la biblioteca. Evitar que los estudiantes ya sea sin querer o deliberadamente se lleven libros, el proyecto va dirigido hacía los estudiantes para recordarles y llevar un listado de los libros que se llevan y para poder ayudar a los ayudantes de la biblioteca.
 
 ##  Tabla de Contenidos
