@@ -1,6 +1,3 @@
-# Aplicación-Web-para-la-gestión-de-libros-de-la-biblioteca-del-IES-Celia-Viñas
-Este proyecto lleva bastante tiempo pensándose, para evitar la pérdida de libros en la biblioteca. Evitar que los estudiantes ya sea sin querer o deliberadamente se lleven libros, el proyecto va dirigido hacía los estudiantes para recordarles y llevar un listado de los libros que se llevan y para poder ayudar a los ayudantes de la biblioteca.
-
 # Aplicación Web para la gestión de libros de la biblioteca del IES Celia Viñas by Juan Antonio
 
 ![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)
@@ -9,6 +6,8 @@ Este proyecto lleva bastante tiempo pensándose, para evitar la pérdida de libr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 Aplicación web interactiva para la gestión de catálogos y préstamos de libros, desarrollada dentro del módulo de **Lenguajes de Marcas** (1º DAW).
+
+Este proyecto lleva bastante tiempo pensándose, para evitar la pérdida de libros en la biblioteca. Evitar que los estudiantes ya sea sin querer o deliberadamente se lleven libros, el proyecto va dirigido hacía los estudiantes para recordarles y llevar un listado de los libros que se llevan y para poder ayudar a los ayudantes de la biblioteca.
 
 ##  Tabla de Contenidos
 - [Descripción General](#-descripción-general)
